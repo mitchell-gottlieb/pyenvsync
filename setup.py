@@ -11,7 +11,7 @@ setup(
     url="https://github.com/mitchell-gottlieb/pyenvsync",
     packages=find_packages(),
     classifiers=[
-        "Development Status :: 1 -  Planning",
+        "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python",
