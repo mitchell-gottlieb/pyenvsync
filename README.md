@@ -52,11 +52,11 @@ In terminal from the directory containing the `pyenvsync.ini` file, run the foll
 
 ### Example Success
 
-![Successful Output](./assets/success.png)
+![Successful Output](https://raw.githubusercontent.com/mitchell-gottlieb/pyenvsync/master/assets/success.png)
 
 ### Example with Warnings
 
-![Warnings](./assets/warnings.png)
+![Warnings](https://raw.githubusercontent.com/mitchell-gottlieb/pyenvsync/master/assets/warnings.png)
 
 ## Future Items
 
