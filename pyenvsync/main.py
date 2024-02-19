@@ -71,7 +71,3 @@ def main():
     # Alert Any Critical Error and Stop Check
     except Exception as excp:
         error(message=str(excp))
-
-
-if __name__ == "__main__":
-    main()
