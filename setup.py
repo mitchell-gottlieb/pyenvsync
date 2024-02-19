@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pyenvsync",
-    version="0.0.1",
+    version="0.0.2",
     description=("PySyncEnv assists with synchronizing and validating Python workspaces "
                  "across users and devices, ensuring seamless collaboration and consistent setups."),
     long_description=open("README.md").read(),
