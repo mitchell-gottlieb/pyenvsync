@@ -1,6 +1,5 @@
 # PyEnvSync
-
-PySyncEnv assists with synchronizing and validating Python workspaces across users and devices, ensuring seamless collaboration and consistent setups.
+PyEnvSync assists with synchronizing and validating Python workspaces across users and devices, ensuring seamless collaboration and consistent setups.
 
 ## Key Features
 
@@ -9,11 +8,9 @@ PySyncEnv assists with synchronizing and validating Python workspaces across use
 - Validates that the Required Environment Variables Exist on Your System
 
 ## Installation
-
-Run: `pip install pyenvsync`
+`pip install pyenvsync`
 
 ## Creating the Configuration File
-
 This packages utilizes a configuration file named `pyenvsync.ini`. This file contains the following 3 sections:
 
 1. **version**
@@ -45,19 +42,15 @@ VAR_NAME_2 = Variable Description
 ```
 
 ## Example Usage
-
 In terminal from the directory containing the `pyenvsync.ini` file, run the following command and view the results:
 
 `pyenvsync` OR `python -m pyenvsync`
 
 ### Example Success
-
 ![Successful Output](https://raw.githubusercontent.com/mitchell-gottlieb/pyenvsync/master/assets/success.png)
 
 ### Example with Warnings
-
 ![Warnings](https://raw.githubusercontent.com/mitchell-gottlieb/pyenvsync/master/assets/warnings.png)
 
 ## Future Items
-
 All future work items are tracked in the "PyEnvSync To-Do" Project. Please submit requests there.
