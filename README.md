@@ -58,6 +58,6 @@ In terminal from the directory containing the `pyenvsync.ini` file, run the foll
 
 ![Warnings](https://raw.githubusercontent.com/mitchell-gottlieb/pyenvsync/master/assets/warnings.png)
 
-## Future Items
+## Community
 
-All future work items are tracked in the "PyEnvSync To-Do" Project. Please submit requests there.
+All future work items are tracked in the "PyEnvSync To-Do" Project. Please submit requests, create issues, or utilize discussions.
