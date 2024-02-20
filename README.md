@@ -52,5 +52,5 @@ In terminal from the directory containing the `pyenvsync.ini` file, run the foll
 ### Example with Warnings
 ![Warnings](https://raw.githubusercontent.com/mitchell-gottlieb/pyenvsync/master/assets/warnings.png)
 
-## Future Items
-All future work items are tracked in the "PyEnvSync To-Do" Project. Please submit requests there.
+## Community
+All future work items are tracked in the "PyEnvSync To-Do" Project. Please submit requests, create issues, or utilize discussions.
